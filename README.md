@@ -4,8 +4,6 @@
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mizunoyuuki&theme=radical)
 
-![mizunoyuuki's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mizunoyuuki&show_icons=true&theme=radical)
-
 <!--
 **mizunoyuuki/mizunoyuuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
