@@ -8,5 +8,5 @@
 
 I’m building a C compiler from scratch (work in progress). The goal is to gain a deep understanding of compiler internals such as lexing, parsing, and code generation.
 
-Cコンパイラをゼロから実装しています（開発中）。コンパイラの内部構造（字句解析・構文解析・コード生成など）を深く理解することで、低レイヤーへの深い理解を目指しています。
+Cコンパイラをゼロから実装しています（開発中）。コンパイラの内部構造（字句解析・構文解析・コード生成など）の学習を通して、低レイヤーへの深い理解目指しています。
 
