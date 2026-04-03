@@ -2,6 +2,9 @@
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mizunoyuuki&layout=compact&theme=radical)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=あなたのユーザー名&show_icons=true&theme=radical)](https://github.com/anurag-hazra/github-readme-stats)
+
 ### Currently Working On / 現在取り組んでいること
 
 **[mcc](https://github.com/mizunoyuuki/mcc)** - A self-made C compiler / 自作Cコンパイラ
