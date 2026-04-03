@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mizunoyuuki&layout=compact&theme=radical)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mizunoyuuki&show_icons=true&theme=radical)](https://github.com/anurag-hazra/github-readme-stats)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mizunoyuuki&theme=radical)
 
 ### Currently Working On / 現在取り組んでいること
 
