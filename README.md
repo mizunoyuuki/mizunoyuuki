@@ -3,8 +3,6 @@
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mizunoyuuki&layout=compact&theme=radical)
 
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mizunoyuuki&theme=radical)
-
 ### Currently Working On / 現在取り組んでいること
 
 **[mcc](https://github.com/mizunoyuuki/mcc)** - A self-made C compiler / 自作Cコンパイラ
